@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Usama 👋
 
-<!--
-**MuhammadUsama9/MuhammadUsama9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps Engineer and Cyber Security Engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Primary
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Engineer-red)
+
+---
+
+## ⚙️ Tech
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+
+---
+
+## 🚀 Interests
+- Cloud Infrastructure  
+- Automation & CI/CD  
+- Security & Penetration Testing  
+- Building scalable and secure systems
