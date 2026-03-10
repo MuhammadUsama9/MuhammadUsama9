@@ -17,11 +17,3 @@ I am a DevOps Engineer and Cyber Security Engineer.
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
-
----
-
-## 🚀 Interests
-- Cloud Infrastructure  
-- Automation & CI/CD  
-- Security & Penetration Testing  
-- Building scalable and secure systems
