@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Usama 👋
 
-I am a DevOps Engineer and Cyber Security Engineer.
+I am a DevOps Engineer, Cyber Security Engineer and AI Enthusiast.
 
 ---
 
