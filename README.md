@@ -22,4 +22,4 @@ I am a DevOps Engineer, Cyber Security Engineer and AI Enthusiast.
 ---
 
 ## 🚀 Interests
-- Cloud Infrastructure  - Automation & CI/CD  - Building scalable and secure systems
+- MLOps - Cloud Infrastructure  - Automation & CI/CD  - Building scalable and secure systems
