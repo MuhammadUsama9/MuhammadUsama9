@@ -5,6 +5,7 @@ I am a DevOps Engineer, Cyber Security Engineer and AI Enthusiast.
 ---
 
 ## 🔧 Primary
+![AI/ML](https://img.shields.io/badge/DevOps-Engineer-blue)
 ![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Engineer-red)
 
